@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/emmecola/coronavirus_lombardia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmecola/coronavirus_lombardia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and weâ€™ll help you sort it out.
+<div align='center'><h1>L'epidemia di coronavirus in Lombardia</h1></div>
+<div>I grafici seguenti descrivono l'andamento dell'epidemia di COVID-19 in Lombardia. I dati di riferimento sono quelli rilasciati quotidianamente da <a href='http://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701' target='_blank'>Regione Lombardia</a>, e organizzati in <a href='https://github.com/ondata/covid19italia/blob/master/webservices/regioneLombardia/processing/INCR_DATE_PRV_TAMP_RL_v2/' target='_blank'>file CSV</a> dall'associazione OnData.
+A differenza dei dati ufficiali della <a href='https://github.com/pcm-dpc/COVID-19' target='_blank'>Protezione Civile</a>, Regione Lombardia inserisce i risultati dei nuovi tamponi positivi alla data in cui è stato eseguito il prelievo, pertanto le curve di crescita qui riportate saranno leggermente differenti rispetto a quelli basati sul dataset nazionale gestito dalla Protezione Civile.
+Ciascun grafico è accompagnato da una tabella che riporta le modifiche introdotte dall'ultimo aggiornamento. Da queste tabelle è possibile conoscere la data effettiva del prelievo per i nuovi tamponi positivi.</div>
+<hr>
+<div align="center"><img src="img/trend_lombardia.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/mytable.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_BERGAMO.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_BERGAMO.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_BRESCIA.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_BRESCIA.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_COMO.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_COMO.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_CREMONA.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_CREMONA.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_LECCO.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_LECCO.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_LODI.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_LODI.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_MANTOVA.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_MANTOVA.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_MILANO.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_MILANO.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_MONZA_E_DELLA_BRIANZA.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_MONZA_E_DELLA_BRIANZA.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_PAVIA.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_PAVIA.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_SONDRIO.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_SONDRIO.png?raw=true" width="100%"/></div>
+<hr>
+<div align="center"><img src="img/trend_VARESE.png?raw=true" width="100%"/></div>
+<div align="center"><img src="img/table_VARESE.png?raw=true" width="100%"/></div>
+<hr>
